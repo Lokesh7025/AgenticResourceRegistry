@@ -7,7 +7,10 @@ SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
 path = "docs/img/insights.png"
-SPDX-FileCopyrightText = "2026 Hari Srinivasan <harisrini21@gmail.com>"
+SPDX-FileCopyrightText = [
+  "2026 Hari Srinivasan <harisrini21@gmail.com>",
+  "2026 Lokesh Selvam <lokeshselvam7025@gmail.com>"
+]
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
@@ -256,12 +259,18 @@ SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
 path = "docs/img/audit_logging.png"
-SPDX-FileCopyrightText = "2026 Hari Srinivasan <harisrini21@gmail.com>"
+SPDX-FileCopyrightText = [
+  "2026 Hari Srinivasan <harisrini21@gmail.com>",
+  "2026 Lokesh Selvam <lokeshselvam7025@gmail.com>"
+]
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
 path = "docs/img/builder.png"
-SPDX-FileCopyrightText = "2026 Hari Srinivasan <harisrini21@gmail.com>"
+SPDX-FileCopyrightText = [
+  "2026 Hari Srinivasan <harisrini21@gmail.com>",
+  "2026 Lokesh Selvam <lokeshselvam7025@gmail.com>"
+]
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
@@ -271,7 +280,10 @@ SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
 path = "docs/img/component_registry.png"
-SPDX-FileCopyrightText = "2026 Hari Srinivasan <harisrini21@gmail.com>"
+SPDX-FileCopyrightText = [
+  "2026 Hari Srinivasan <harisrini21@gmail.com>",
+  "2026 Lokesh Selvam <lokeshselvam7025@gmail.com>"
+]
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
@@ -281,7 +293,10 @@ SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
 path = "docs/img/registry.png"
-SPDX-FileCopyrightText = "2026 Hari Srinivasan <harisrini21@gmail.com>"
+SPDX-FileCopyrightText = [
+  "2026 Hari Srinivasan <harisrini21@gmail.com>",
+  "2026 Lokesh Selvam <lokeshselvam7025@gmail.com>"
+]
 SPDX-License-Identifier = "Apache-2.0"
 
 [[annotations]]
