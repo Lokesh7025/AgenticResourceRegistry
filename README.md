@@ -87,7 +87,7 @@ Agentic Resource Registry supports Claude Code, Cursor, Kiro, Pi, Copilot, Codex
 One command to install any agent into any supported harness. The config files are generated per-harness automatically.
 
 ---
-### Where does observal fit in your modern enterprise infrastructure?
+### Where does Agentic Resource Registry fit in your modern enterprise infrastructure?
 
 <img width="1920" height="1080" alt="Agentic Resource Registry in an enterprise stack: registry, insights, traces, review and version control beside the agent gateway, runtime, LLM gateway and MCP gateway" src="docs/img/enterprise-architecture.png" />
 
